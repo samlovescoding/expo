@@ -11,7 +11,7 @@ designing Admin Panels.
 
 **Database File** : expo.sql *(Somebody please write CodeIgniter migrations for this database)*
 
-**Expo Constants ** : application/config/constants.php
+**Expo Constants** : application/config/constants.php
 
 **Authentication Route** : /authentication
 
